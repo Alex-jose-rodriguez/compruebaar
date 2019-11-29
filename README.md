@@ -8,3 +8,7 @@ The code repository contains three examples:
 3. A very simple and naive way to implement a push cache filter: [PushCacheFilter](https://github.com/readlearncode/Servlet-4.0-Sampler/blob/master/src/main/java/com/readlearncode/servlet4/pushbuilder/PushCacheFilter.java)
 
 This repository contains the examples I demonstarted in my article "[Servlet 4.0: Doing More Faster](http://www.javamagazine.mozaicreader.com/NovDec2017/facebook#&pageSet=13&page=0)" that was published in the November/December 2017 edition of the Java Magazine.
+
+investigar mas:
+
+https://github.com/readlearncode
