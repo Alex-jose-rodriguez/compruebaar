@@ -15,7 +15,7 @@ import java.io.IOException;
  * @author Alex Theedom www.readlearncode.com
  * @version 1.0
  */
-@WebServlet("/simplestexample")
+@WebServlet("/SimplestExample")
 public class SimplestExample extends HttpServlet {
 
     @Override
